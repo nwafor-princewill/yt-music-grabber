@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Downloads folder (contains the actual MP3 files)
+downloads/
+*.mp3
+*.mp4
+*.webm
+
+# Flask session and debug files
+.flaskenv
+instance/
+
+# IDE
+.vscode/
+.idea/
+
+# Local config files (if any)
+*.local
