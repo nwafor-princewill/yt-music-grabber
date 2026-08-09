@@ -23,4 +23,4 @@ A local web tool to download YouTube Music tracks as MP3 with album art and meta
 Paste a YouTube/YouTube Music link, choose format, click "GRAB MUSIC". The file will download to your PC with full metadata.
 
 ## Disclaimer
-For personal use only – respect copyright.
+Pay 500 naira a month to enjoy seamless and uninterrupted music with no ads enjoy..
